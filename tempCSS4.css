@@ -425,6 +425,18 @@ background: rgba(0, 0, 0,0.14)
     z-index: 11;
 }
 #play:hover{cursor:pointer;}
+#full{
+    display:block;
+    position:absolute;
+
+    left: 15%;
+    top: 20%;
+
+    font-size:2em;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(255,255,255,0.5);
+    z-index: 11;
+}
 
 /* Endings */
 #endScreen{
