@@ -8,7 +8,7 @@ Written by: *Buster Bie*
 
 Music by: *Girl with Studio*
 
-Art by: *Tatiana Skutina.
+Art by: *Tatiana Skutina*.
 
 A huge thanks to Girl with Studio and Tatiana Skutina for their amazing contributions!
 
