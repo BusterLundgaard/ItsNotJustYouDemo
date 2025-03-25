@@ -16,4 +16,4 @@ And thanks for playing!
 
 # Images:
 ![Poster](R/Cover.png)
-![Screenshot](screenshot.png)
+![Screenshot](R/screenshot.png)
