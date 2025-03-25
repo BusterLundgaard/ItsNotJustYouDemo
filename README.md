@@ -4,8 +4,10 @@ For the first time in 5 years, two women meet again, at a busstop, both on the w
 
 This is a short (~20 min) text-based interactive fiction experience. You play as both charachters! 
 
-Written by: *Buster Bie*
+Written by: *Buster Bie* 
+
 Music by: *Girl with Studio*
+
 Art by: *Tatiana Skutina.
 
 A huge thanks to Girl with Studio and Tatiana Skutina for their amazing contributions!
