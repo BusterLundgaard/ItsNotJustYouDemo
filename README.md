@@ -15,3 +15,5 @@ A huge thanks to Girl with Studio and Tatiana Skutina for their amazing contribu
 And thanks for playing! 
 
 # Images:
+![Poster](R/Cover.png)
+![Screenshot](screenshot.png)
